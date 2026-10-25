@@ -1,5 +1,4 @@
 build/
-
-*.log 
-
-*.env
+*.vcd
+*.vvp
+__pycache__/

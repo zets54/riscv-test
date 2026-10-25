@@ -1,0 +1,13 @@
+rtl/core_pkg.sv
+rtl/decoder.sv
+rtl/frontend.sv
+rtl/rename.sv
+rtl/rob.sv
+rtl/issue_queue.sv
+rtl/prf.sv
+rtl/arf.sv
+rtl/int_unit.sv
+rtl/muldiv_unit.sv
+rtl/lsu.sv
+rtl/csr_file.sv
+rtl/core.sv
